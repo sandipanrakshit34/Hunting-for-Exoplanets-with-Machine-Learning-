@@ -1,7 +1,8 @@
 # Hunting-for-Exoplanets-with-Machine-Learning
 
-<center> <img src = "https://c.tenor.com/3zb7e2Hb9f4AAAAC/galaxy-stars.gif" width = 100%>
-## Project Overview
+<center> <img src = "https://github.com/sandipanrakshit34/Hunting-for-Exoplanets-with-Machine-Learning-/blob/main/exoplanets-illustration-nasa-800w.jpg" width = 100%>
+
+  ## Project Overview
 The "Hunt for Exoplanets using Machine Learning" project aims to identify potential exoplanets from a large dataset of stellar observations. Using machine learning techniques, this project analyzes light curves—graphs of light intensity over time—to detect the subtle dimming that indicates an exoplanet passing in front of a star. This project employs a Random Forest classifier to distinguish between exoplanet candidates and non-exoplanets (false positives), achieving high accuracy in the predictions.
 
 ## Technologies Used
