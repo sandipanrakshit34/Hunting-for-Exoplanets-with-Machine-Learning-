@@ -25,6 +25,13 @@ The dataset used in this project is sourced from Kaggle and contains time series
 - **models/**: Saved models for future use and analysis.
 - **README.md**: Project documentation.
 
+
+## Authors
+
+- [@sandipanrakshit34](https://github.com/sandipanrakshit34)
+
+##
+
 ## How It Works
 1. **Data Preprocessing:** The raw time series data is cleaned and preprocessed using Pandas and Numpy. Features such as mean, variance, and skewness of the light curves are extracted to serve as inputs to the model.
 2. **Model Training:** A Random Forest classifier is trained on the preprocessed dataset to classify instances as either exoplanets or non-exoplanets.
