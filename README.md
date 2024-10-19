@@ -26,7 +26,7 @@ The dataset used in this project is sourced from Kaggle and contains time series
 - **README.md**: Project documentation.
 
 
-## Authors
+## Author
 
 - [@sandipanrakshit34](https://github.com/sandipanrakshit34)
 
